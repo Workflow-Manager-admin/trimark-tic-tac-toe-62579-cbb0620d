@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/trimark-tic-tac-toe-62579-cbb0620d/react_frontend"
+}
